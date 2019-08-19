@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# I'am noob you pro recode:D
-# Mass Bin Checker by Ganteng
+# I'am noob you pro decoded:D
+# Mass Bin Checker by Extazy
 
 use strict;
 use WWW::Mechanize;
